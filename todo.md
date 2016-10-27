@@ -14,6 +14,10 @@
 * can communicate to QA
 * diplomatic communication style without offending people
 * teaching good code quality
+ - host and facilitate Code Retreats
+ - Coding Dojos
+ - knows katas which train the missing skill for a developer
+ - developer trainer
 * discuss factually without bringing the discussion to a personal level (developers will defend their code and coding style)
 * Know and understand all the technical stuff best:
  - programming languages
@@ -26,6 +30,7 @@
 * balancing technical progress vs. effort of change
  - investment and ROI
 * Fearless Change
+* knows how to refactor
 
 # Is it the Architect?
 * don't mix people and roles
@@ -59,3 +64,9 @@
 * helps the team with techniques how to tackle Technical Debt
 * educates the team, e.g. Legacy Code Retreats
 * negotiate whether to increase Technical Debt to reach short term project goals
+
+# What is Technical Debt?
+* all technical stuff that makes team slower
+
+# How to tackle
+* refactoring
