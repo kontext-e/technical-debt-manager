@@ -8,6 +8,7 @@
 * Cares about the Safety which is needed to make code and architecture changes
 * Experiment and Learn
 
+
 # Needed Skills
 * can communicate to managers
 * can communicate to team
@@ -64,6 +65,12 @@
 * helps the team with techniques how to tackle Technical Debt
 * educates the team, e.g. Legacy Code Retreats
 * negotiate whether to increase Technical Debt to reach short term project goals
+* analyzes project situations
+* suggests operational, tactical and strategic actions, discuss them with all stakeholders, decide together
+* stick to it also in the long run, motivate people
+* measures success of the actions, steer or stop them
+* suggest better/easier/simpler technical solutions
+ - prerequisit: wide range of knowledge about alternatives
 
 # What is Technical Debt?
 * all technical stuff that makes team slower
