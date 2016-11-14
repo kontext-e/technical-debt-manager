@@ -85,6 +85,9 @@ speaks the language of persons in charge.
 # How to tackle
 * refactoring
 
+# What do other domains do
+* Put Safety First and Minimize the 12 Common Causes of Mistakes in the Aviation Workplace https://www.faasafety.gov/files/gslac/library/documents/2012/Nov/71574/DirtyDozenWeb3.pdf
+
 # Citations
 The code got that way for a reason, & if you can't change people's habits, it'll just re-messify again after the refactoring.
 (Sarah Mei (@sarahmei) on Twitter https://twitter.com/sarahmei/status/715639963274969088)
