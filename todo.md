@@ -88,3 +88,6 @@ speaks the language of persons in charge.
 # Citations
 The code got that way for a reason, & if you can't change people's habits, it'll just re-messify again after the refactoring.
 (Sarah Mei (@sarahmei) on Twitter https://twitter.com/sarahmei/status/715639963274969088)
+
+The art of programming is the art of organizing complexity; mastering multitude & avoiding its chaos as effectively as possible. - Dijkstra
+(Rich Rogers (@RichRogersHDS) on Twitter https://twitter.com/RichRogersHDS/status/712791280632348672)
