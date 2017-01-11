@@ -94,3 +94,9 @@ The code got that way for a reason, & if you can't change people's habits, it'll
 
 The art of programming is the art of organizing complexity; mastering multitude & avoiding its chaos as effectively as possible. - Dijkstra
 (Rich Rogers (@RichRogersHDS) on Twitter https://twitter.com/RichRogersHDS/status/712791280632348672)
+
+{"id":1,"login":"jn","email":"j.nerche@kontext-e.de","avatar_url":"https://secure.gravatar.com/avatar/6b32d2bdede41508ba43a59ef6fdac4a","active":false}
+
+    environment:
+      - DRONE_ADMIN="jn"
+
