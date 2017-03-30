@@ -15,7 +15,13 @@
 There is always a reason why there is Technical Debt. In most cases more than "a" reason, but a bunch of them. 
 The Technical Debt manager understands them, can separate them in handable parts, knowns who to address and
 speaks the language of persons in charge.
-�����
+
+# Why would we need one?
+* too many projects out there that suffer from a load of Technical Debt
+* even if people are complaining about bad code, costly changes, slowing down progress - not everytime someone is feeling responsible to change something
+* sombody needs to take action
+
+
 # Needed Skills
 * can communicate to managers
 * can communicate to team
@@ -94,9 +100,4 @@ The code got that way for a reason, & if you can't change people's habits, it'll
 
 The art of programming is the art of organizing complexity; mastering multitude & avoiding its chaos as effectively as possible. - Dijkstra
 (Rich Rogers (@RichRogersHDS) on Twitter https://twitter.com/RichRogersHDS/status/712791280632348672)
-
-{"id":1,"login":"jn","email":"j.nerche@kontext-e.de","avatar_url":"https://secure.gravatar.com/avatar/6b32d2bdede41508ba43a59ef6fdac4a","active":false}
-
-    environment:
-      - DRONE_ADMIN="jn"
 
