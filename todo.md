@@ -5,12 +5,40 @@
 # What is a Technical Debt Manager?
 * understands what Technical Debt is (and what not)
 * somebody in the team who cares on code quality and handles Technical Debt
+* asks the (right) questsions, inconvenient admonisher, point to the dirty places
+ - especially in the long run
+ - not only in cases of impulsive actions when a problem raises or management got attention
+ - does not loose TD out of mind after a short period of "lets improve all things"
 * who understands where Technical Debt comes from, how it is created
 * who programs with the team
 * responsible person for technical stuff so that the team can Deliver Value Continuously
 * Make the Architect and the Developers awesome about Code, Design, and Architecture Quality
 * Cares about the Safety which is needed to make code and architecture changes
 * Experiment and Learn
+* Drives systematic improvement of the system
+* Steers developers in code quality improvements
+* So not the top 10 sonarqube warnings but top 10 for high ROI (most positive effect on the system)
+* Drives Value Based Improvements
+ - ROI
+ - Improvements are Investments
+ - Business Value
+ - Increasing Productivity
+ - ... "constantly deliver Value to the customer"
+* Analyzes where TD comes from - skills, culture, management, customer, ...
+* Tacles the root causes for origins of TD
+* Translates the technical domain (classes too large, packages too tangled and coupled, test coverage too low) to the management domain (cost, time to market, ...)
+* Estimates the cost of not doing an improvement (cost of problem/issue) vs. saving cost when it is done
+ - Estimation skills
+ - Tools and techniques for estimating system improvements
+* Comes up with several options for an problem
+ - plus an minus for each option
+ - consequences
+ - choose an option
+ - maybe document it (design decision)
+* Has also other improvments in mind
+ - organizational
+ - infrastructore
+ - operational
 
 There is always a reason why there is Technical Debt. In most cases more than "a" reason, but a bunch of them. 
 The Technical Debt manager understands them, can separate them in handable parts, knowns who to address and
@@ -20,7 +48,7 @@ speaks the language of persons in charge.
 * too many projects out there that suffer from a load of Technical Debt
 * even if people are complaining about bad code, costly changes, slowing down progress - not everytime someone is feeling responsible to change something
 * sombody needs to take action
-
+* 
 
 # Needed Skills
 * can communicate to managers
