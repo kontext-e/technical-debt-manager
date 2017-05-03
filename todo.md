@@ -93,8 +93,15 @@ speaks the language of persons in charge.
 * jQAssistant, Structure101, Sonargraph
 * static code analysis tools
 * Test Coverage tools
-* Jenkins, Drone
+* Jenkins, Drone, GoCD, ...
 * SCM Servers like Gogs, GitHub, Gitlab
+* Scripting languages to process metrics before breaking build
+* arc42, Asciidoc, PlantUML
+* Simon Brown C4
+* automatic architecture and design rule checker
+ - degraph
+* some lightweight arch drawing tool
+* walkmod
 
 # Duties
 * recognize Technical Debt
@@ -118,6 +125,7 @@ speaks the language of persons in charge.
 
 # How to tackle
 * refactoring
+* team learning
 
 # What do other domains do
 * Put Safety First and Minimize the 12 Common Causes of Mistakes in the Aviation Workplace https://www.faasafety.gov/files/gslac/library/documents/2012/Nov/71574/DirtyDozenWeb3.pdf
